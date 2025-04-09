@@ -1,0 +1,27 @@
+[
+    {
+        "nombre": "Creatina",
+        "cantidad_total": 250,
+        "uso_diario": 5,
+        "fecha_inicio": "2025-03-03" 
+    },
+    {
+        "nombre": "Caseina",
+        "cantidad_total": 1000,
+        "uso_diario": 30,
+        "fecha_inicio": "2025-04-01"
+    },
+    {
+        "nombre": "MAP",
+        "cantidad_total": 420,
+        "uso_diario": 10,
+        "fecha_inicio": "2025-03-03"
+    },
+    {
+        "nombre": "Ciclodextrina",
+        "cantidad_total": 1000,
+        "uso_diario": 20,
+        "fecha_inicio":"2025-03-03"
+    }
+
+]
